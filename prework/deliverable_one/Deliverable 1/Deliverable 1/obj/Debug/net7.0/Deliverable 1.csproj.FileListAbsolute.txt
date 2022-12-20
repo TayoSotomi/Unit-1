@@ -1,0 +1,15 @@
+D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\Deliverable 1.csproj.AssemblyReference.cache
+D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\Deliverable 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\Deliverable 1.AssemblyInfoInputs.cache
+D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\Deliverable 1.AssemblyInfo.cs
+D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\Deliverable 1.csproj.CoreCompileInputs.cache
+D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\bin\Debug\net7.0\Deliverable 1.exe
+D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\bin\Debug\net7.0\Deliverable 1.deps.json
+D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\bin\Debug\net7.0\Deliverable 1.runtimeconfig.json
+D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\bin\Debug\net7.0\Deliverable 1.dll
+D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\bin\Debug\net7.0\Deliverable 1.pdb
+D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\Deliverable 1.dll
+D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\refint\Deliverable 1.dll
+D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\Deliverable 1.pdb
+D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\Deliverable 1.genruntimeconfig.cache
+D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\ref\Deliverable 1.dll
