@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New folder\\prework\\deliverable_one\\Deliverable 1\\Deliverable 1\\Deliverable 1.csproj",
+      "projectUniqueName": "D:\\GCbootcamp\\prework\\deliverable_one\\Deliverable 1\\Deliverable 1\\Deliverable 1.csproj",
       "projectName": "Deliverable 1",
-      "projectPath": "D:\\New folder\\prework\\deliverable_one\\Deliverable 1\\Deliverable 1\\Deliverable 1.csproj",
+      "projectPath": "D:\\GCbootcamp\\prework\\deliverable_one\\Deliverable 1\\Deliverable 1\\Deliverable 1.csproj",
       "packagesPath": "C:\\Users\\Oreoluwa\\.nuget\\packages\\",
-      "outputPath": "D:\\New folder\\prework\\deliverable_one\\Deliverable 1\\Deliverable 1\\obj\\",
+      "outputPath": "D:\\GCbootcamp\\prework\\deliverable_one\\Deliverable 1\\Deliverable 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

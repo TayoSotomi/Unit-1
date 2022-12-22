@@ -13,3 +13,18 @@ D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7
 D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\Deliverable 1.pdb
 D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\Deliverable 1.genruntimeconfig.cache
 D:\New folder\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\ref\Deliverable 1.dll
+D:\GCbootcamp\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\Deliverable 1.csproj.AssemblyReference.cache
+D:\GCbootcamp\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\Deliverable 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GCbootcamp\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\Deliverable 1.AssemblyInfoInputs.cache
+D:\GCbootcamp\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\Deliverable 1.AssemblyInfo.cs
+D:\GCbootcamp\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\Deliverable 1.csproj.CoreCompileInputs.cache
+D:\GCbootcamp\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\Deliverable 1.dll
+D:\GCbootcamp\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\refint\Deliverable 1.dll
+D:\GCbootcamp\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\Deliverable 1.pdb
+D:\GCbootcamp\prework\deliverable_one\Deliverable 1\Deliverable 1\bin\Debug\net7.0\Deliverable 1.exe
+D:\GCbootcamp\prework\deliverable_one\Deliverable 1\Deliverable 1\bin\Debug\net7.0\Deliverable 1.deps.json
+D:\GCbootcamp\prework\deliverable_one\Deliverable 1\Deliverable 1\bin\Debug\net7.0\Deliverable 1.runtimeconfig.json
+D:\GCbootcamp\prework\deliverable_one\Deliverable 1\Deliverable 1\bin\Debug\net7.0\Deliverable 1.dll
+D:\GCbootcamp\prework\deliverable_one\Deliverable 1\Deliverable 1\bin\Debug\net7.0\Deliverable 1.pdb
+D:\GCbootcamp\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\Deliverable 1.genruntimeconfig.cache
+D:\GCbootcamp\prework\deliverable_one\Deliverable 1\Deliverable 1\obj\Debug\net7.0\ref\Deliverable 1.dll
