@@ -4,12 +4,16 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        
+
         double PriceCoffee = 1.50;
         double PriceWater = 0.5;
 
+
         Console.Write("Hello welcome! What is your party size?\n");
         int welcome = int.Parse(Console.ReadLine());
+
+        var countCoffee = 0;
+        var countWater = 0;
 
         if (welcome >= 1 && welcome <= 6)
         {
@@ -21,66 +25,53 @@ public class Program
 
             for (Welcome = welcome; Welcome >= 1; Welcome--)
             {
-                String[] drinks = { "water", "coffee" };
+                String drinks1 = "water";
+                String drinks2 = "coffee";
 
                 { Console.Write("Alright, water or coffee?\n"); }
                 String drinksOrder = Console.ReadLine();
 
 
                 bool menu = false;
-                for (int i = 0; i < drinks.Length; i++)
+
+                if (drinksOrder == drinks1)
                 {
-                    if (drinksOrder == drinks[i])
-                    {
-                        menu = true;
-                    }
-
+                    menu = true;
                 }
-                if (menu == true)
+                else if (drinksOrder == drinks2)
                 {
-                    int countCoffee = 0;
-                    for (int i = 1; i == drinks.Length; i += 1)
-                    {
-
-                        int CountCoffee = countCoffee += i;
-                    }
-
-                    int countWater = 0;
-                    for (int i = 0; i < drinks.Length; i += 1)
-                    { countWater = countWater += i; }
-
-
-                    double costCoffee = PriceCoffee * countCoffee;
-
-                    double costWater = PriceWater * countWater;
-
-                    double buffet = 9.99;
-
-                    if (Welcome <= 1)
-                    {
-
-                        Console.WriteLine();
-
-                        { Console.WriteLine("okay, so that's " + countCoffee + "  coffee(s) and " + countWater + "  bottle(s) of water. I'll be right back. Feel free to grab your food!\n"); }
-
-                        double total = buffet + costCoffee + costWater;
-
-                        Console.WriteLine();
-
-                        { Console.WriteLine("Here is your bill! Total price: $" + total); }
-                    }
-
+                    menu = true;
                 }
-
-
                 else
+                { Console.WriteLine("Sorry, we dont have that. Do you care for something else"); }
 
+
+                int CountCoffee = countCoffee += 1;
+
+                countWater = countWater += 1;
+
+
+                double costCoffee = PriceCoffee * countCoffee;
+
+                double costWater = PriceWater * countWater;
+
+                double buffet = 9.99;
+
+                if (Welcome <= 1)
                 {
-                    Console.WriteLine("Sorry, we dont have that. Do you care for something else");
+
+                    Console.WriteLine();
+
+                    { Console.WriteLine("okay, so that's " + countCoffee + "  coffee(s) and " + countWater + "  bottle(s) of water. I'll be right back. Feel free to grab your food!\n"); }
+
+                    double total = buffet + costCoffee + costWater;
+
+                    Console.WriteLine();
+
+                    { Console.WriteLine("Here is your bill! Total price: $" + total); }
+
                 }
-
             }
-
 
         }
 
@@ -93,6 +84,7 @@ public class Program
     }
 
 }
+
 
 
 
