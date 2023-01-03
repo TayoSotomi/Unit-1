@@ -3,9 +3,9 @@ public class Program
 {
     public static void Main()
     {
-        bool restart = false;
+        bool restart = true;
 
-        while (!restart) 
+        while (restart)
         {
 
             Console.Write("How many people are we making PB&J sandwiches for?\n");
@@ -22,10 +22,14 @@ public class Program
             double pb = Convert.ToDouble(input * 2 / 32);
             double jelly = Convert.ToDouble(input * 4 / 48);
 
+            double Bread = Math.Round(bread);
+            double Pb = Math.Round(pb);
+            double Jelly = Math.Round(jelly);
 
-            Console.WriteLine(Math.Round(bread, 2) + " loaves of bread");
-            Console.WriteLine(Math.Round(pb, 2) + " jars of peanut butter");
-            Console.WriteLine(Math.Round(jelly, 2) + " jars of jelly");
+
+            Console.WriteLine(Bread + " loaves of bread");
+            Console.WriteLine(Pb + " jars of peanut butter");
+            Console.WriteLine(Jelly + " jars of jelly");
             Console.WriteLine();
 
             String options1 = "Yes";
@@ -34,31 +38,17 @@ public class Program
             Console.Write("Would you like to restart? Enter Y or Yes to continue, or any other key to exit.\n");
 
             String answer = Console.ReadLine();
-       
-             if (answer == option1)
-              { restart = true; }
 
-             else if (answer == options2)
-              { restart = true; }
+            if (answer == options1)
+            { restart = true; }
 
-             else
+            else if (answer == options2)
+            { restart = true; }
 
-              { Console.WriteLine("Goodbye"); } 
+            else
+
+            { Console.WriteLine("Goodbye"); }
         }
     }
 }
 
-    
-
-
-
-    
-       
-        
-       
-         
-           
-        
-    
-         
-  
