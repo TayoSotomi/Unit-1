@@ -25,21 +25,21 @@ public class Program
             for (Welcome = welcome; Welcome >= 1; Welcome--)
             {
                 String drink1 =  "water";
-                string drinks2 = "coffee";
+                string drink2 = "coffee";
 
                  Console.Write("Alright, water or coffee?\n"); 
                 String drinksOrder = Console.ReadLine();
 
 
-                if (drinksOrder == drinks1)
+                if (drinksOrder == drink1)
                 {
-                    int countwater = (countwater += 1);
+                    countWater += 1;
                 }
 
 
                 else if (drinksOrder == drinks2;)
                 {
-                int countcoffee = (countCoffee += 1);
+                countCoffee += 1;
                
                 }
                 else                    
