@@ -18,9 +18,9 @@ public class Program
             Console.WriteLine();
 
 
-            double bread = Convert.ToDouble(input * 0.071429);
-            double pb = Convert.ToDouble(input * 0.0625);
-            double jelly = Convert.ToDouble(input * 0.083333);
+            double bread = (input * 0.071429);
+            double pb = (input * 0.0625);
+            double jelly = (input * 0.083333);
                                
 
             Console.WriteLine(Math.Ceiling(bread) + " loaves of bread");
