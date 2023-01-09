@@ -11,8 +11,8 @@ public class Program
         Console.Write("Hello welcome! What is your party size?\n");
         int welcome = int.Parse(Console.ReadLine());
 
-        var countCoffee = 0
-        var countWater = 0
+        var countCoffee = 0;
+        var countWater = 0;
 
         if (welcome >= 1 && welcome <= 6)
         {
