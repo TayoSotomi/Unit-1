@@ -18,18 +18,14 @@ public class Program
             Console.WriteLine();
 
 
-            double bread = Convert.ToDouble(input * 2 / 28);
-            double pb = Convert.ToDouble(input * 2 / 32);
-            double jelly = Convert.ToDouble(input * 4 / 48);
+            double bread = Convert.ToDouble(input * 0.071429);
+            double pb = Convert.ToDouble(input * 0.0625);
+            double jelly = Convert.ToDouble(input * 0.083333);
+                               
 
-            double Bread = Math.Round(bread);
-            double Pb = Math.Round(pb);
-            double Jelly = Math.Round(jelly);
-
-
-            Console.WriteLine(Bread + " loaves of bread");
-            Console.WriteLine(Pb + " jars of peanut butter");
-            Console.WriteLine(Jelly + " jars of jelly");
+            Console.WriteLine(Math.Ceiling(bread) + " loaves of bread");
+            Console.WriteLine(Math.Ceiling(pb) + " jars of peanut butter");
+            Console.WriteLine(Math.Ceiling(jelly) + " jars of jelly");
             Console.WriteLine();
 
             String options1 = "Yes";
@@ -47,7 +43,11 @@ public class Program
 
             else
 
-            { Console.WriteLine("Goodbye"); }
+            {
+                restart = false;
+                Console.WriteLine("Goodbye"); 
+                Console.ReadKey();
+            }
         }
     }
 }

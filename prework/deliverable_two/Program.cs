@@ -37,7 +37,7 @@ public class Program
                 }
 
 
-                else if (drinksOrder == drinks2)
+                else if (drinksOrder == drink2)
                 {
                 countCoffee += 1;
                
